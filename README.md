@@ -8,11 +8,13 @@ using historical monthly spot price data (Oct 2020 – Sep 2024).
 - **Future dates (up to 1 year ahead)** → Linear trend + monthly seasonal adjustment
 
 ## Project Structure
+```bash
 natural-gas-price-predictor/
 ├── nat_gas_price_predictor.py
 ├── Nat_Gas.csv
 ├── README.md
 └── .gitignore
+```
 
 ## Installation
 ```bash
